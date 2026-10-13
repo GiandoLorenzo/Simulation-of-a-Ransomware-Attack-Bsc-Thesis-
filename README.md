@@ -2,7 +2,6 @@
 
 Bachelor's thesis by **Lorenzo Giandomenico**, University of Calabria, Bachelor's Degree in Computer Science, academic year **2024/2025**.
 
-Supervisor: **Prof. Giovambattista Ianni**.
 
 > [!WARNING]
 > The thesis documents techniques that can compromise systems and cause irreversible data loss. It describes a ransomware attack simulation carried out in a controlled virtual laboratory for educational purposes. Commands, scripts and configurations shown in the documents can be destructive if executed.
@@ -12,7 +11,7 @@ Supervisor: **Prof. Giovambattista Ianni**.
 | Language | PDF |
 | --- | --- |
 | Italian | [Simulazione di un attacco Ransomware](Giandomenico-Tesi-Triennale-Applicativa.pdf) |
-| English | [Simulation of a Ransomware Attack](output/pdf/Giandomenico-Tesi-Triennale-Applicativa-English.pdf) |
+| English | [Simulation of a Ransomware Attack](Giandomenico-Tesi-Triennale-Applicativa-English.pdf) |
 
 ## Academic context
 
